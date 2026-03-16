@@ -19,7 +19,7 @@ The program also checks the **strength of the generated password** and classifie
 * Ensures password contains required characters
 * Randomly shuffles characters for better security
 
----
+
 
 
 
