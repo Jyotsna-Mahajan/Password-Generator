@@ -7,7 +7,6 @@ It generates a **random and secure password** based on user preferences such as 
 
 The program also checks the **strength of the generated password** and classifies it as **Weak, Medium, or Strong**.
 
----
 
 ## ⚙️ Features
 
